@@ -1,0 +1,7 @@
+Requerments for Used car prediction price:
+
+1- numpy version 1.23.5
+2- pandas version 2.0.1
+3- matplotlib version 3.7.1
+4- seaborn version 0.12.2
+5- sklearn version 1.0.2
